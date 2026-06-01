@@ -1,2 +1,10 @@
 # karinamaharani.github.io
-Central Hub for Karina Maharani's profile and recent projects
+
+Static Next.js portfolio page for Karina Maharani.
+
+## Commands
+
+- `npm install`
+- `npm run dev`
+- `npm run lint`
+- `npm run build`

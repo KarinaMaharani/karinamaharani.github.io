@@ -1,0 +1,28 @@
+{
+  "name": "karinamaharani.github.io",
+  "version": "1.0.0",
+  "description": "Central Hub for Karina Maharani's profile and recent projects",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarinaMaharani/karinamaharani.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarinaMaharani/karinamaharani.github.io/issues"
+  },
+  "homepage": "https://github.com/KarinaMaharani/karinamaharani.github.io#readme",
+  "dependencies": {
+    "eslint": "^9.39.4",
+    "eslint-config-next": "^16.2.7",
+    "next": "^15.5.19",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  }
+}
